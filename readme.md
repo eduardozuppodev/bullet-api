@@ -9,7 +9,7 @@
   <a href="">bullet-api<a/>
 
 ## 💻 Projeto
-Aplicativo para agendamento de partidas gerenciadas. Onde o usuário poderá achar diversas partidas nos horários desejados e aproveitar junto aos seus amigos ou jogadores ao redor no mundo. 
+Api para agendamento de partidas gerenciadas. Onde o usuário poderá achar diversas partidas nos horários desejados e aproveitar junto aos seus amigos ou jogadores ao redor no mundo. 
 
 ## :hammer_and_wrench: Features 
 
