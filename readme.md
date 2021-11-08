@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="Bullet" height="80" title="Bullet" src="https://user-images.githubusercontent.com/69389822/140804760-badd4759-a17e-49b3-9679-b04d9bbc315e.png" />
+    <img alt="Bullet" height="80" title="Bullet" src="https://user-images.githubusercontent.com/69389822/140825151-138d88ff-5837-4c1c-bce2-4c0aa1df6d11.png" />
   <br/>
   <span>Aplicação Back-End da Bullet - Agendamento de Partidas<span/>
 </h1>
